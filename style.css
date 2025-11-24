@@ -1,0 +1,30 @@
+/* Center content horizontally and add top margin */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Box that will change color */
+#color-box {
+  width: 200px;
+  height: 200px;
+  background-color: lightgray; /* default color */
+  margin: 20px auto;
+  border-radius: 10px;
+  border: 2px solid #333;
+}
+
+/* Button styling */
+#change-color-btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#change-color-btn:hover {
+  background-color: #555;
+}

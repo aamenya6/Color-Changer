@@ -4,10 +4,10 @@
 
 - Use the basic structure of an HTML document.
 - Add a "Change Color' title to the document.
-- Create a <div> element with a class name of "container".
-- Add a <h1> element with the text element "Color Changer" inside the container.
-- Add another <div> element with an id of "color-box". This will represent the box whose color will change.
-- Add a <button> element with an id of "change-color-btn". The button has the text "Change Color".
+- Create a div element with a class name of "container".
+- Add a h1 element with the text element "Color Changer" inside the container.
+- Add another div element with an id of "color-box". This will represent the box whose color will change.
+- Add a button element with an id of "change-color-btn". The button has the text "Change Color".
 
 ## Styling with CSS
 
